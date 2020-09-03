@@ -1,5 +1,5 @@
 {
 	"@type":"Subset",
 	"Name":"BlankTest",
-	"Expression":"{EXCEPT({[Account].[Account].[4999],[Account].[Account].[5999],[Account].[Account].[GM],[Account].[Account].[6099],[Account].[Account].[6199],[Account].[Account].[6299],[Account].[Account].[6399],[Account].[Account].[6499],[Account].[Account].[6599],[Account].[Account].[TE],[Account].[Account].[NP],[Account].[Account].[6699],[Account].[Account].[NPAA],[Account].[Account].[Statistics]},{[Account].[Account].[4999],[Account].[Account].[5999],[Account].[Account].[GM],[Account].[Account].[6099],[Account].[Account].[6199],[Account].[Account].[6299],[Account].[Account].[6399],[Account].[Account].[6499],[Account].[Account].[6599],[Account].[Account].[TE],[Account].[Account].[NP],[Account].[Account].[6699],[Account].[Account].[NPAA],[Account].[Account].[Statistics]})}"
+	"Elements":[]
 }
