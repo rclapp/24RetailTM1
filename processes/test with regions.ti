@@ -1,9 +1,9 @@
 #region Prolog
 
 
-#Region This is a Region
+#region This is a Region
 
   SLEEP(5);
 
-#EndRegion
+#endregion
 #endregion
