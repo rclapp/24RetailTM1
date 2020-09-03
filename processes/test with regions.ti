@@ -1,9 +1,12 @@
 #region Prolog
 
+#region Prolog
 
 #region This is a Region
 
   SLEEP(5);
+
+#endregion
 
 #endregion
 #endregion
